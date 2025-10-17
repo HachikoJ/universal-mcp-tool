@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+.venv/
+
+# Environment & local secrets
+.env
+
+# Local app configs (contain API definitions/keys)
+api_configs.json
+
+# Logs
+*.log
+
+# Tooling metadata
+.codebuddy/
